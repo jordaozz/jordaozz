@@ -1,29 +1,22 @@
-# Bem-vindo ao Meu Perfil do GitHub! 💤
+# Gabriel Jordão
 
-E aí, pessoal! Eu sou o Gabriel Jordão, um amante de dados e entusiasta da tecnologia. Aqui no meu cantinho do GitHub, você vai encontrar uma mistura de projetos e trabalhos que refletem minha paixão por análise de dados, programação em Python, SQL, Power BI e Tableau.
+Desenvolvo aplicativos com foco em organizar informações e facilitar tarefas do dia a dia. Minha formação em Análise de Dados na Resilia e no Senac inclui programação em Python, modelagem de dados em SQL e visualização com Power BI e Tableau.
 
-## Sobre Mim
-Sou aquele cara que adora desvendar padrões nos dados e contar histórias interessantes com eles. Sempre curioso e disposto a encarar desafios, estou sempre buscando aprender e compartilhar o que sei.
+## Aplicativos em destaque
 
-## Principais Conhecimentos
-- **Análise de Dados**
-- **Python**
-- **SQL**
-- **Power BI**
-- **Tableau**
+| Aplicativo | O que faz | Tecnologias |
+| --- | --- | --- |
+| **GymZ** | Planejador e diário de treinos para Windows, Android e iPhone. Monta rotinas personalizadas e acompanha presença, cargas e cobertura muscular. | C#, WPF, Blazor WebAssembly |
+| **SpentZ** | Controle financeiro pessoal para Windows. Registra despesas e ganhos por chat, acompanha contas futuras e calcula o saldo previsto do mês. | C#, WPF, SQLite |
 
-## O que você encontrará nos meus repositórios?
+Os dois aplicativos funcionam offline e armazenam os dados no próprio aparelho. Estou revisando as versões para distribuição.
 
-### Trabalhos em Grupo 👥
-Nesta área, você vai ver projetos onde trabalhei com uma galera, juntando nossos conhecimentos para resolver problemas e criar soluções usando análise de dados, Python, SQL, Power BI e Tableau. (Feitos para o curso Análise de Dados Resilia & Senac)
+## Projetos de análise de dados
 
-### Trabalhos Individuais 🧑‍💻
-Aqui, você vai encontrar projetos individuais, explorando desde análises exploratórias de dados até visualizações criativas e dinâmicas. (Feitos para o curso Análise de Dados Resilia & Senac)
+- **Preços de combustíveis · em equipe.** Análise exploratória da série histórica da ANP para gasolina e etanol, com Python, pandas e visualizações em Jupyter. [Ver projeto](https://github.com/jordaozz/M4-Group-Project)
+- **Banco de dados escolar · em equipe.** Modelagem conceitual e lógica, implementação em MySQL e consultas sobre turmas, estudantes e evasão. [Ver projeto](https://github.com/jordaozz/M3-Group-Project)
+- **Progresso diário · individual.** Análise de indicadores de trabalho com dados fictícios, estatística descritiva e gráficos em pandas, Matplotlib e Seaborn. [Ver projeto](https://github.com/jordaozz/M4-Individual)
 
-### Trabalhos Pessoais 🚀
-Nesta parte, compartilho projetos que criei por pura diversão e aprendizado. É onde testo novas tecnologias, experimento ideias malucas e coloco minha criatividade para funcionar.
+## Contato
 
-## LinkedIn
-<a href="https://www.linkedin.com/in/gabrieljordao/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linkedin-1167fa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-Valeu por passar aqui! Espero que encontre algo interessante e inspirador. 💤
+[LinkedIn](https://www.linkedin.com/in/gabrieljordao/)
