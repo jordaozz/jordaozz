@@ -19,4 +19,4 @@ Os dois aplicativos funcionam offline e armazenam os dados no próprio aparelho.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/gabrieljordao/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1167FA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieljordao/)
