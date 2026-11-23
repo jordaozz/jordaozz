@@ -15,8 +15,6 @@ Os dois aplicativos funcionam offline e armazenam os dados no próprio aparelho.
 
 Uso ChatGPT e Codex para explorar alternativas de implementação, investigar problemas e revisar código. Descrevo o comportamento esperado, avalio as sugestões e verifico as mudanças no uso do aplicativo.
 
-No GymZ, defini e refinei regras como abrir direto no treino do dia, bloquear registros em datas futuras e levar os exercícios pendentes ao relatório semanal.
-
 ## Projetos de análise de dados
 
 - **Preços de combustíveis · em equipe.** Análise exploratória da série histórica da ANP para gasolina e etanol, com Python, pandas e visualizações em Jupyter. [Ver projeto](https://github.com/jordaozz/M4-Group-Project)
