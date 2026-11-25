@@ -2,14 +2,15 @@
 
 Desenvolvo aplicativos com foco em organizar informações e facilitar tarefas do dia a dia. Minha formação em Análise de Dados na Resilia e no Senac inclui programação em Python, modelagem de dados em SQL e visualização com Power BI e Tableau.
 
-## Aplicativos em destaque
+## Projeto principal · GymZ
 
-| Aplicativo | O que faz | Tecnologias |
-| --- | --- | --- |
-| **GymZ** | Planejador e diário de treinos para Windows, Android e iPhone. Monta rotinas personalizadas e acompanha presença, cargas e cobertura muscular. | C#, WPF, Blazor WebAssembly |
-| **SpentZ** | Controle financeiro pessoal para Windows. Registra despesas e ganhos por chat, acompanha contas futuras e calcula o saldo previsto do mês. | C#, WPF, SQLite |
+Planejador e diário de treinos para Windows, Android e iPhone. O GymZ monta uma ficha semanal conforme objetivos, regiões prioritárias e equipamentos. Na academia, registra presença, séries e cargas e mostra a cobertura muscular da semana. Desenvolvi a interface para Windows em C# e WPF e adaptei a experiência para celular com Blazor WebAssembly.
 
-Os dois aplicativos funcionam offline e armazenam os dados no próprio aparelho. Estou revisando as versões para distribuição.
+[Ver projeto](https://github.com/jordaozz/GymZ) · [Baixar para Windows](https://github.com/jordaozz/GymZ/releases/latest/download/GymZ-Windows.zip) · [Abrir no celular](https://jordaozz.github.io/GymZ/)
+
+### SpentZ
+
+Controle financeiro pessoal para Windows. Registra despesas e ganhos por chat, acompanha contas futuras e calcula o saldo previsto do mês. O projeto usa C#, WPF e SQLite e está em revisão para distribuição.
 
 ## Desenvolvimento com IA
 
