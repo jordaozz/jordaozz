@@ -2,15 +2,26 @@
 
 Desenvolvo aplicativos com foco em organizar informações e facilitar tarefas do dia a dia. Minha formação em Análise de Dados na Resilia e no Senac inclui programação em Python, modelagem de dados em SQL e visualização com Power BI e Tableau.
 
-## Projeto principal · GymZ
+## Projetos principais
 
-Planejador e diário de treinos para Windows, Android e iPhone. O GymZ monta uma ficha semanal conforme objetivos, regiões prioritárias e equipamentos. Na academia, registra presença, séries e cargas e mostra a cobertura muscular da semana. Desenvolvi a interface para Windows em C# e WPF e adaptei a experiência para celular com Blazor WebAssembly.
-
-[Ver projeto](https://github.com/jordaozz/GymZ) · [Baixar para Windows](https://github.com/jordaozz/GymZ/releases/latest/download/GymZ-Windows.zip) · [Abrir no celular](https://jordaozz.github.io/GymZ/)
-
-### SpentZ
-
-Controle financeiro pessoal para Windows. Registra despesas e ganhos por chat, acompanha contas futuras e calcula o saldo previsto do mês. O projeto usa C#, WPF e SQLite e está em revisão para distribuição.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jordaozz/GymZ">GymZ</a></h3>
+      <a href="https://github.com/jordaozz/GymZ"><img src="https://raw.githubusercontent.com/jordaozz/GymZ/main/docs/screenshots/mapa-windows.png" width="336" alt="Mapa muscular do GymZ no Windows"></a>
+      <p>Planejador e diário de treinos para Windows, Android e iPhone. Monte sua rotina e acompanhe presença, séries, cargas e cobertura muscular.</p>
+      <p><strong>C#, WPF e Blazor WebAssembly</strong></p>
+      <p><a href="https://github.com/jordaozz/GymZ">Ver projeto</a> · <a href="https://github.com/jordaozz/GymZ/releases/latest/download/GymZ-Windows.zip">Baixar para Windows</a> · <a href="https://jordaozz.github.io/GymZ/">Abrir no celular</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jordaozz/SpentZ">SpentZ</a></h3>
+      <a href="https://github.com/jordaozz/SpentZ"><img src="https://raw.githubusercontent.com/jordaozz/SpentZ/main/docs/acompanhar-conta.png" width="336" alt="Painel Acompanhar conta do SpentZ"></a>
+      <p>Controle financeiro pessoal para Windows. Registre gastos pelo chat, acompanhe assinaturas, guarde por metas e veja quanto sobra depois das contas.</p>
+      <p><strong>C#, WPF e SQLite</strong></p>
+      <p><a href="https://github.com/jordaozz/SpentZ">Ver projeto</a> · <a href="https://github.com/jordaozz/SpentZ/releases/latest/download/SpentZ.exe">Baixar para Windows</a></p>
+    </td>
+  </tr>
+</table>
 
 ## Desenvolvimento com IA
 
